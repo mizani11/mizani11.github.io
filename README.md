@@ -1,2 +1,2 @@
-# mizani11.github.io
+# mizanitz.github.io
 Welcome 
