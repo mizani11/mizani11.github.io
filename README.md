@@ -330,4 +330,4 @@ contactForm.addEventListener('submit', e => {
   formMessage.textContent = 'Ujumbe wako umetumwa! Tutakujibu hivi karibuni.';
 
   contactForm.reset();
-});
+})
